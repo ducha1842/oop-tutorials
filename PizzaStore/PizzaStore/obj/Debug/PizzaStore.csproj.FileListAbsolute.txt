@@ -1,0 +1,7 @@
+D:\Học tập\C# .NET\oop-tutorials\PizzaStore\PizzaStore\bin\Debug\PizzaStore.exe.config
+D:\Học tập\C# .NET\oop-tutorials\PizzaStore\PizzaStore\bin\Debug\PizzaStore.exe
+D:\Học tập\C# .NET\oop-tutorials\PizzaStore\PizzaStore\bin\Debug\PizzaStore.pdb
+D:\Học tập\C# .NET\oop-tutorials\PizzaStore\PizzaStore\obj\Debug\PizzaStore.csprojAssemblyReference.cache
+D:\Học tập\C# .NET\oop-tutorials\PizzaStore\PizzaStore\obj\Debug\PizzaStore.csproj.CoreCompileInputs.cache
+D:\Học tập\C# .NET\oop-tutorials\PizzaStore\PizzaStore\obj\Debug\PizzaStore.exe
+D:\Học tập\C# .NET\oop-tutorials\PizzaStore\PizzaStore\obj\Debug\PizzaStore.pdb
